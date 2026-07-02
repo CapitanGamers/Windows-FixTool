@@ -1,4 +1,4 @@
-This software use .NET 6
+This software use .NET 8
 
 Open the .exe file
 
